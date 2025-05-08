@@ -8,7 +8,7 @@
 
 --Relacionamento:
     --Um pedido pode conter vários produtos (relação N:N). Para simplificar, 
-    --assumiremos que a tabela pedidos lista apenas um produto por linha (modelo simplificado).
+    --assumindo que a tabela pedidos lista apenas um produto por linha (modelo simplificado).
 
 
 
